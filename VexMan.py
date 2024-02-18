@@ -15,7 +15,7 @@ def check_ip(ip):
 def scan_port(ipaddress, port):
     try:
         sock = socket.socket()
-        sock.settimeout(0.3)
+        sock.settimeout(0.9)
         sock.connect((ipaddress, port))
         print("VEX says the Port " + str(port) + " is open")
         sock.close()
