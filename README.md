@@ -1,6 +1,6 @@
 # Port Scanner
 
-#### Linux:
+# Linux:
 
 ### 1st step:- 
 After download, go to the folder open terminal or copy the path in the teminal
