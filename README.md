@@ -3,7 +3,7 @@
 #### Linux:
 
 ### 1st step:- 
-After download, go to the file open terminal or copy the path in the teminal
+After download, go to the folder open terminal or copy the path in the teminal
 
 ### 2nd step:- 
 Then, type 
