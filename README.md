@@ -14,7 +14,7 @@ Then, type
 #### 3rd step:-
 Finally enter the desired web link and it will scan automatically 
 
-|Multiple_Port_scanner|
+|Multiple_Target_scanner|
 |--------------|
 
 #### 1st step:- 
@@ -22,7 +22,7 @@ After download, go to the folder open terminal or copy the path in the teminal
 
 #### 2nd step:- 
 Then, type 
-##### ```python3 VexMan.py```
+##### ```python3 Multiple_Target_scanner.py```
 
 #### 3rd step:-
 Finally enter the desired web link and it will scan automatically 
