@@ -1,5 +1,5 @@
 import socket
- 
+
 def check_ip(ip):
     try:
         socket.inet_aton(ip)
